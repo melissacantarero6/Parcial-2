@@ -1,0 +1,9 @@
+En esta ocacion usamos la libreria de panda que solo temenos que instalar la libreria por medio de la terminal y escribir el comando
+
+pip install pandas
+
+Y solo verificamos su instalacion con el siguiente comando
+import pandas as pd
+print(pd.__version__)
+
+o simplemente en el marketplace de VScode e installarlo
